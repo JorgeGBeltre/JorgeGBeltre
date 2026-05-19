@@ -38,7 +38,7 @@ I build complete systems — from firmware and hardware to backend APIs and fron
 
 [![Platform](https://img.shields.io/badge/platform-ESP32-blue)](https://www.espressif.com/en/products/socs/esp32)
 [![Arduino Library](https://img.shields.io/badge/Arduino-Library-teal)](https://www.arduinolibraries.info/authors/jorgegbeltre)
-[![PlatformIO Library](https://badges.Library.platformio.org/packages/jorgegbeltre/library/MQTTOTAv5.svg)](https://registry.platformio.org/search?q=owner%3Ajorgegbeltre)
+[![PlatformIO Library](https://shields.io)](https://registry.platformio.org/search?q=owner%3Ajorgegbeltre)
 [![MQTT Version](https://img.shields.io/badge/MQTT-5.0-brightgreen)](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html)
 [![MQTT 3.1.1](https://img.shields.io/badge/MQTT-3.1.1-orange)](https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
 
