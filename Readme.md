@@ -91,7 +91,7 @@ This template combines the performance of .NET 8 with the flexibility of React 1
 
 <div align="center">
 
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeGBeltre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=JorgeGBeltre&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGBeltre&layout=compact&theme=tokyonight&hide_border=true)
 
