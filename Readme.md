@@ -52,6 +52,11 @@ I build complete systems — from firmware and hardware to backend APIs and fron
 
 ##  Featured Projects
 
+### [EcfDgi.Client](https://github.com/JorgeGBeltre/EcfDgi.Client) - EcfDgi.Client SDK - Dominican Republic Electronic Invoicing
+This SDK provides a robust and simplified integration with the Electronic Invoicing (e-CF) services of the General Directorate of Internal Taxes (DGII) of the Dominican Republic. Designed under Clean Architecture principles, it enables the generation, digital signing, sending, and querying of electronic tax receipts efficiently.
+
+`C#` 
+
 ###  [MQTTOTA](https://github.com/JorgeGBeltre/MQTTOTA) — Firmware OTA Update System over MQTT
 Scalable over-the-air firmware update system for ESP32 using MQTT. Supports partition management, rollback, and concurrent device updates.
 
