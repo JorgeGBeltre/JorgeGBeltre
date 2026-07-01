@@ -52,10 +52,15 @@ I build complete systems — from firmware and hardware to backend APIs and fron
 
 ##  Featured Projects
 
-### [EcfDgi.Client](https://github.com/JorgeGBeltre/EcfDgi.Client) - EcfDgi.Client SDK - Dominican Republic Electronic Invoicing
-This SDK provides a robust and simplified integration with the Electronic Invoicing (e-CF) services of the General Directorate of Internal Taxes (DGII) of the Dominican Republic. Designed under Clean Architecture principles, it enables the generation, digital signing, sending, and querying of electronic tax receipts efficiently.
+### [EcfDgi.Client_C_Plus_Plus](https://github.com/JorgeGBeltre/EcfDgi.Client_C_Plus_Plus) - EcfDgii.Client API & SDK — Dominican Republic Electronic Invoicing (C++)
+EcfDgii.Client is an enterprise-grade C++ solution that wraps and exposes the Dominican Republic Tax Authority's (DGII) Comprobante Fiscal Electrónico (e-CF) REST integration services. Built under Clean Architecture and Domain-Driven Design (DDD) principles, it provides a robust REST API, secure JWT-based authentication, PostgreSQL persistence with automated auditing and soft-delete, request validation rules, structured logging, and full Docker orchestration support.
 
-`C#` 
+`C++` `REST API` `PostgreSQL` `JWT` `Clean Architecture` `DDD` `Docker`
+
+### [EcfDgi.Client](https://github.com/JorgeGBeltre/EcfDgi.Client) - EcfDgi.Client SDK - Dominican Republic Electronic Invoicing
+EcfDgii.Client is an enterprise-grade solution that wraps and exposes the Dominican Republic Tax Authority's (DGII) Comprobante Fiscal Electrónico (e-CF) SOAP/REST integration services. Refactored under Clean Architecture and Domain-Driven Design (DDD) principles, this solution provides a robust REST API wrapper, secure JWT-based authentication, PostgreSQL persistence with automated auditing and soft-delete, FluentValidation rules, correlation logging, and full Docker orchestration support.
+
+`C#` `REST API` `PostgreSQL` `JWT` `Clean Architecture` `DDD` `Docker`
 
 ###  [MQTTOTA](https://github.com/JorgeGBeltre/MQTTOTA) — Firmware OTA Update System over MQTT
 Scalable over-the-air firmware update system for ESP32 using MQTT. Supports partition management, rollback, and concurrent device updates.
