@@ -1,10 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Coding">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;.NET+Core+%7C+Node.js+%7C+React;IoT+%26+Embedded+Systems+Engineer;Building+hardware+%2B+software+solutions)](https://git.io/typing-svg)
-
-</div>
-
----
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mechatronics+Engineer;IoT+%26+Embedded+Systems+Engineer;.NET+Core+%7C+Node.js+%7C+React;ESP32+%7C+Arduino+%7C+MQTT+5.0;Open+Source+Contributor;Building+Hardware+%2B+Software+Solutions"
+      alt="Typing SVG">
+  </a>
+</p>
 
 ##  About Me
 
@@ -16,37 +20,87 @@ I build complete systems — from firmware and hardware to backend APIs and fron
 
 ---
 
-##  Tech Stack
+###  Tech Stack
 
-**Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+## Frontend
 
-**Backend**
+<div align="" style="display: flex; justify-content: center; align-items: center;">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" alt="HTML">
 
-**Embedded & IoT**
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" alt="CSS">
 
-[![Platform](https://img.shields.io/badge/platform-ESP32-blue)](https://www.espressif.com/en/products/socs/esp32)
-[![Arduino Library](https://img.shields.io/badge/Arduino-Library-teal)](https://www.arduinolibraries.info/authors/jorgegbeltre)
-[![PlatformIO Library](https://shields.io/badge/PlatformIO%20Library-E37B0D?style=flat&logo=platformio&logoColor=white)](https://registry.platformio.org/search?q=owner%3Ajorgegbeltre)
-[![MQTT Version](https://img.shields.io/badge/MQTT-5.0-brightgreen)](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html)
-[![MQTT 3.1.1](https://img.shields.io/badge/MQTT-3.1.1-orange)](https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="JavaScript">
 
-**DevOps & Tools**
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="120" alt="TypeScript">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="120" alt="React">
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+
+
+</div>
+
+## Backend
+
+<div align="" style="display: flex; justify-content: center; align-items: center;">
+
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65">
+
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65">
+
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Node.js" width="100">
+
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" alt="Docker" width="100">
+
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65">
+
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="100">
+
+  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET Core">
+
+</div>
+
+## Embedded & IoT
+
+<div align="" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.espressif.com/en/products/socs/esp32">
+    <img src="https://img.shields.io/badge/Platform-ESP32-00979D?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  </a>
+
+  <a href="https://www.arduinolibraries.info/authors/jorgegbeltre">
+    <img src="https://img.shields.io/badge/Arduino-Library-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Library">
+  </a>
+
+  <a href="https://registry.platformio.org/search?q=owner%3Ajorgegbeltre">
+    <img src="https://img.shields.io/badge/PlatformIO-Library-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO Library">
+  </a>
+
+  <a href="https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html">
+    <img src="https://img.shields.io/badge/MQTT-5.0-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" alt="MQTT 5.0">
+  </a>
+
+  <a href="https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html">
+    <img src="https://img.shields.io/badge/MQTT-3.1.1-FF8C00?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" alt="MQTT 3.1.1">
+  </a>
+</div>
+
+
+## DevOps & Tools
+
+<div align="" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="90">
+
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="90">
+
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="90">
+
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="90">
+</div>
+
 
 ---
 
@@ -101,7 +155,24 @@ This template combines the performance of .NET 8 with the flexibility of React 1
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JorgeGBeltre&theme=dark)](https://git.io/streak-stats)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700"  height="50">
+<br><br>
+
+</div>
+<div align="" style="display: flex; justify-content: center; align-items: center;">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="200" height="193">
+<br><br>
+
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=JorgeGBeltre&theme=dark" width="500" height="200" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGBeltre&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -111,25 +182,56 @@ This template combines the performance of .NET 8 with the flexibility of React 1
 
 ##  Currently Learning
 
-![MQTT v5](https://img.shields.io/badge/MQTT_v5-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Azure IoT](https://img.shields.io/badge/Azure_IoT_Hub-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65">
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65">
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MQTT_v5-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Microservices-.NET-5C2D91?style=flat-square&logo=.net&logoColor=white">
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Azure_IoT_Hub-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
-<div align="center">
+<div align="" style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.linkedin.com/in/jorge-gaspar-beltre-rivera/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100">
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-gaspar-beltre-rivera/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeGBeltre)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jorgegaspar3021@gmail.com)
+  <a href="https://github.com/JorgeGBeltre" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="100">
+  </a>
 
+  <a href="mailto:Jorgegaspar3021@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="100">
+  </a>
+
+  <a href="https://discord.gg/tu-invitacion" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="100">
+  </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JorgeGBeltre&color=6366F1&style=flat-square" alt="Profile views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JorgeGBeltre&color=6366F1&style=flat-square" alt="Profile views">
+</p>
