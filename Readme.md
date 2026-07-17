@@ -96,7 +96,7 @@ I build complete systems — from firmware and hardware to backend APIs and fron
 
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" width="90">
 
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="90">
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="90">
 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="90">
 </div>
@@ -160,17 +160,18 @@ This template combines the performance of .NET 8 with the flexibility of React 1
 <br><br>
 
 </div>
-<div align="" style="display: flex; justify-content: center; align-items: center;">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="200" height="193">
-<br><br>
-
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=JorgeGBeltre&theme=dark" width="500" height="200" alt="GitHub Streak"/>
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="200" height="193">
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=JorgeGBeltre&theme=dark" width="500" height="200" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
