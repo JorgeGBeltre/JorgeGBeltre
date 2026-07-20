@@ -37,7 +37,7 @@ I build complete systems — from firmware and hardware to backend APIs and fron
 
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="120" alt="React">
 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="90" alt="Tailwind CSS">
 
 
 </div>
@@ -60,8 +60,7 @@ I build complete systems — from firmware and hardware to backend APIs and fron
 
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="100">
 
-  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET Core">
-
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="65" height="65">
 </div>
 
 ## Embedded & IoT
